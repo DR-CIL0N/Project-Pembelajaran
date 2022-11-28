@@ -10,3 +10,9 @@ JavaScript (JS)
 -Dasar
 -DOM
 -Lanjutan (Advanced)
+
+PYTHON
+-Dasar
+
+JAVA
+-Dasar
