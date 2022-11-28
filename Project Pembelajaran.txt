@@ -1,0 +1,12 @@
+HTML
+-Dasar
+
+CSS
+-Dasar
+-Layouting
+-3
+
+JavaScript (JS)
+-Dasar
+-DOM
+-Lanjutan (Advanced)
